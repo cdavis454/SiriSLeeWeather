@@ -24,4 +24,8 @@ Text to speech
 Recording phonetic keys
 Sending a scanner class and sending results from user to a foreign structure.
 Removing non-key words from the user input string
-Division of Labor: This project will require at least 5 people. Each person can write one method. (shown in #2)
+Division of Labor: 
+Anika: filter key words from input and input it to weather code
+Carolyn: Turn weather predictions into phonetics and make it say something.
+Hayool and Eddy: Create weather-predicting code
+
